@@ -39,3 +39,7 @@ body {
   font-size: 1.2rem;
   color: var(--mainYellow);
 }
+
+.ozel-olcu {
+  padding: 0.5rem;
+}
